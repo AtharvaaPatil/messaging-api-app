@@ -13,7 +13,7 @@ public class MessagingApiAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MessagingApiAppApplication.class, args);
 		System.out.println(greeting());
-		System.out.println("This app has skipped testing");
+		System.out.println("This app has skipped testing using options");
 		
 	}
 
